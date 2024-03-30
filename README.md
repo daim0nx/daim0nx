@@ -1,7 +1,10 @@
 ### Hi there 👋
 
+### 🤔 Discovering everything that is developing, developing code solutions and exploits
+### 🌱 Learning more about the R language
+### 📫 daimoncopyright is my discord username
 <!--
-**daim0nx/daim0nx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**DaimonCopyyright/DaimonCopyyright** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
